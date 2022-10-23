@@ -1,0 +1,61 @@
+/* .icon {
+  position: absolute;
+  width: 27px;
+  height: 9px;
+  left: 1px;
+  top: 10px;
+
+  background: linear-gradient(96.34deg, #e537b9 0%, #c040df 100%);
+  border-radius: 4.5px;
+} */
+#icon {
+  position: absolute;
+  width: 27px;
+  height: 9px;
+  left: 3%;
+  top: 20px;
+  background: linear-gradient(96.34deg, #e537b9 0%, #c040df 100%);
+  border-radius: 4.5px;
+}
+span {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 23px;
+  position: absolute;
+  top: 39px;
+  margin-left: 3%;
+}
+.heading {
+  position: absolute;
+  width: 74px;
+  height: 32px;
+  left: 3%;
+  top: 123px;
+
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.subheading {
+  position: absolute;
+  width: 331px;
+  height: 28px;
+  left: 3%;
+  top: 155px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  /* identical to box height, or 156% */
+
+  color: #858585;
+}
+
+.accordion {
+  
+}
+
